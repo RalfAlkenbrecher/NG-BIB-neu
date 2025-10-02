@@ -885,6 +885,7 @@ function onActionDrucken(event) {
 		   var jFile = new Packages.java.io.File(jsFile);
 		    desktop.getDesktop().open(jFile);		
 	}	
+
 	
 }
 
