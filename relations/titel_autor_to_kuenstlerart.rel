@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/bib_testdaten/kuenstlerart",
+items:[
+{foreignColumnName:"kuenstlerart_id",primaryDataProviderID:"titel_autor_id",typeid:23,uuid:"4D89CC97-4B15-464D-84CF-6CFB8B53231D"}
+],
+joinType:1,
+name:"titel_autor_to_kuenstlerart",
+primaryDataSource:"db:/bib_testdaten/titel_autor",
+typeid:22,
+uuid:"07EEF86C-2E11-4A48-8674-8261ECF75514"

@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/bib_testdaten/autor",
+items:[
+{foreignColumnName:"autor_id",primaryDataProviderID:"autor_id",typeid:23,uuid:"EB563F53-9EB2-4FC4-9FC3-91B7A88F56B8"}
+],
+joinType:1,
+name:"titel_autor_to_autor",
+primaryDataSource:"db:/bib_testdaten/titel_autor",
+typeid:22,
+uuid:"AF7856AF-936C-47F4-B7FA-10DE3734BA96"

@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/bib_testdaten/einband",
+items:[
+{foreignColumnName:"einband_id",primaryDataProviderID:"einband_id",typeid:23,uuid:"0CC21A83-3BA1-4B0B-A94D-64984E175AEB"}
+],
+joinType:1,
+name:"titel_to_einband",
+primaryDataSource:"db:/bib_testdaten/titel",
+typeid:22,
+uuid:"42ECBBF3-12B9-4F1F-A0B1-00426A37EF89"

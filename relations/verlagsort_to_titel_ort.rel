@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/bib_testdaten/titel_ort",
+items:[
+{foreignColumnName:"ort_id",primaryDataProviderID:"ort_id",typeid:23,uuid:"CA9F0FB6-D90F-4B29-A5C2-62DC718F7F0C"}
+],
+joinType:1,
+name:"verlagsort_to_titel_ort",
+primaryDataSource:"db:/bib_testdaten/verlagsort",
+typeid:22,
+uuid:"8F7A6EDD-9E0F-428D-99F2-BC42CB9F69D6"

@@ -1,0 +1,13 @@
+addEmptyValue:1,
+customProperties:"lazyLoading:false",
+dataProviderID1:"autor_id",
+dataProviderID2:"name_match",
+dataSource:"db:/bib_testdaten/autor",
+displayValueType:12,
+name:"vl_autor_matchname",
+realValueType:12,
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+uuid:"7AD4F035-0B5B-4ABF-9A90-CD5515AD50C4",
+valueListType:1

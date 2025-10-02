@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/bib_testdaten/lgruppe",
+items:[
+{foreignColumnName:"lgruppe_id",primaryDataProviderID:"lgruppe_id",typeid:23,uuid:"66C44A9D-1434-47DD-AE3B-01568356C3A0"}
+],
+joinType:1,
+name:"titel_to_lgruppe",
+primaryDataSource:"db:/bib_testdaten/titel",
+typeid:22,
+uuid:"155B8810-268A-431F-B48E-AA8373CDF336"

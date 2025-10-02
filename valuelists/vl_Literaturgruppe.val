@@ -1,0 +1,13 @@
+customProperties:"lazyLoading:false",
+dataProviderID1:"lgruppe_id",
+dataProviderID2:"lgru_besch",
+dataSource:"db:/bib_testdaten/lgruppe",
+displayValueType:12,
+name:"vl_Literaturgruppe",
+realValueType:12,
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"lgru_besch asc",
+typeid:34,
+uuid:"8DAE6C62-00D3-48FF-852A-24426821400A",
+valueListType:1
