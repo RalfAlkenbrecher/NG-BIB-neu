@@ -868,7 +868,8 @@ function onActionDrucken(event) {
 //	}
 
 
-	var result = plugins.jasperReports.runReport('Bib-Testdaten','F:\Eigene Dateien\JaspersoftWorkspace-7\MyReports\TEST-7.jrxml','',plugins.jasperReports.OUTPUT_FORMAT.PDF,null,'de_DE');
+	var result = plugins.jasperReports.runReport("BIB-Testdaten","TEST-7.jrxml","",plugins.jasperReports.OUTPUT_FORMAT.PDF,null,"de_DE");
+
 	if (result){
 		 /* @type {Array<byte>} */
 		 var bytes
