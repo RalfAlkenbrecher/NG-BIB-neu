@@ -868,7 +868,7 @@ function onActionDrucken(event) {
 //	}
 
 
-	var result = plugins.jasperReports.runReport("BIB-Testdaten","TEST-7.jrxml","",plugins.jasperReports.OUTPUT_FORMAT.PDF,null,"de_DE");
+	var result = plugins.jasperReports.runReport("bib_testdaten","TEST-8.jrxml","",plugins.jasperReports.OUTPUT_FORMAT.PDF,null,"de_DE");
 
 	if (result){
 		 /* @type {Array<byte>} */
